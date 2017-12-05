@@ -1,6 +1,6 @@
 # GPA Express Api
 
-This project was generated with [Laravel](https://laravel.com) version 5.4. This project provides the API for the GPA Express App and is currently deployed on http://gpa-express-api.gregdodd.com. 
+This project was generated with [Laravel](https://laravel.com) version 5.4. This project provides the API for the GPA Express App.
 
 ## Current Endpoints
 
